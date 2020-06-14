@@ -1,4 +1,4 @@
-# Glints
+# Glints task 1
 
 Task 1
 HDB is demolishing an estate of aging flats in Redhill and wants to know how many clusters of households still reside in each block of flats. An example of a flat occupancy diagram of a single block is as below, with + representing an occupied unit and 0 representing an empty unit.
